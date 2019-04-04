@@ -1,0 +1,10 @@
+
+_squid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Í‰ëÙ
+_squid:S4488%"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Âñë
+fsquid:S4488."JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ƒïƒùÿÿÿÿ
+_squid:S4488C"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ï¥¿Ê
+isquid:S1192*"MDefine a constant instead of duplicating this literal "registration" 3 times.(Õ‘äÊşÿÿÿÿ
+|squid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ
+|squid:UselessImportCheck"SRemove this unused import 'org.springframework.web.bind.annotation.RestController'.(±íş¡şÿÿÿÿ
+Qsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êX
+Ysquid:UselessImportCheck"5Remove this unused import 'com.saix.auth.model.Role'.(ŸÈÌ©
