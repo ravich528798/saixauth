@@ -1,7 +1,4 @@
-# Spring Security Login Tutorial
 
-Tutorial / Full Information
-https://medium.com/@gustavo.ponce.ch/spring-boot-spring-mvc-spring-security-mysql-a5d8545d837d
 
 1. mvn clean
 2. mvn clean install
